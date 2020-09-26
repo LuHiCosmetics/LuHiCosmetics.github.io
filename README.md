@@ -1,2 +1,2 @@
-# bangnguyendev.github.io
- Bang Nguyen - Blog 
+# LuHiCosmetics.github.io
+Luw Diễm Diệu Hiền
