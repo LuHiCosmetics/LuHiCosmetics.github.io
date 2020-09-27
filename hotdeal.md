@@ -1,6 +1,6 @@
 ---
-layout: books
-title: Bang Nguyen - My Book Recommendations
+layout: hotdeal
+title: Hot Deal - Siêu khuyến mãi
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
@@ -9,7 +9,7 @@ title: Bang Nguyen - My Book Recommendations
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>HotDeal - Luôn Khuyến Mãi! </h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">

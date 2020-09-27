@@ -497,8 +497,8 @@ footer .theme-by {
 }
 
 .ndb-transbox {
-  margin: 30px;
-  background: rgba(255, 255, 255, 0.4);
+  height: 170px;
+  background: rgba(0, 0, 0, 0.2);
   border-radius: 15px;
 }
 
@@ -542,6 +542,9 @@ footer .theme-by {
 }
 .intro-header.big-img .post-heading .post-meta {
   color: #EEE;
+}
+.img-desc {
+  border-radius: 15px;
 }
 .intro-header.big-img .img-desc {
   background: rgba(30, 30, 30, 0.6);

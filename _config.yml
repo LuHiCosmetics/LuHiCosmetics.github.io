@@ -26,17 +26,23 @@ description: Embedded Systems Engineer
 
 # List of links in the navigation bar
 navbar-links:
-  Books: "books"
-  About Me: "aboutme"
   SP chăm sóc A:
-    - Sản phẩm a: "http://ieeexplore.ieee.org/document/7918794/"
-    - Sản phẩm a: "https://www.linkedin.com/in/bangnguyenduy"
-    - Sản phẩm a: "https://github.com/bangnguyendev"
+    - Sản phẩm a1: "http://ieeexplore.ieee.org/document/7918794/"
+    - Sản phẩm a2: "https://www.linkedin.com/in/bangnguyenduy"
+    - Sản phẩm a3: "https://github.com/bangnguyendev"
   SP chăm sóc B:
-    - Sản phẩm b: "http://ieeexplore.ieee.org/document/7918794/"
-    - Sản phẩm b: "https://www.linkedin.com/in/bangnguyenduy"
-    - Sản phẩm b: "https://github.com/bangnguyendev"
-  Liên hệ: "resume/NGUYENDUYBANGCV.pdf"
+    - Sản phẩm b1: "http://ieeexplore.ieee.org/document/7918794/"
+    - Sản phẩm b2: "https://www.linkedin.com/in/bangnguyenduy"
+    - Sản phẩm b3: "https://github.com/bangnguyendev"
+  SP chăm sóc C:
+    - Sản phẩm c1: "http://ieeexplore.ieee.org/document/7918794/"
+    - Sản phẩm c2: "https://www.linkedin.com/in/bangnguyenduy"
+    - Sản phẩm c3: "https://github.com/bangnguyendev"
+  Hot Deal: "hotdeal"
+  Liên hệ:
+    - LUHI COSMETICS: "aboutme"
+    - Facebook: "https://www.facebook.com/lakaun.hee"
+    - Instagram: "https://www.instagram.com/lakaunhee/?hl=vi"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
