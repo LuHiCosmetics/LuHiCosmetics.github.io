@@ -22,7 +22,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Now_That_You_are_Rich.png" alt="Now That You're Rich: Let's Fall in Love!" />
-					<h3 class="product__title">UROCALUN - ĐẶC TRỊ BỆNH SỎI THẬN.</h3>
+					<h3 class="product__title">UROCALUN - Đặc trị bệnh sỏi thận.</h3>
 					<span class="product__author highlight">Thuốc có tác dụng kìm hãm sự phát triển của sỏi thận, hòa tan sỏi thận.</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=now+that+you%27re+rich+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -38,7 +38,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Subtle_Art_of_Not_Giving_a_Fck.png" alt="The Subtle Art of Not Giving a F*ck" />
-					<h3 class="product__title">Sữa rửa mặt PERFECT WHIP - SENKA </h3>
+					<h3 class="product__title">Sữa rửa mặt PERFECT WHIP </h3>
 					<span class="product__author highlight"> Có axit m-tranexamic trắng da, ngăn chặn sắc tố melanin gây vết đốm, tàn nhang</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>

@@ -20,7 +20,7 @@ title: LUHI COSMETICS
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: Embedded Systems Engineer
+description: Cung cấp các sản phẩm thực phẩm chức năng, mỹ phẩm, order Nhật Bản.
 
 # --- Navigation bar options --- #
 
@@ -73,16 +73,9 @@ author:
   name: LUHI COSMETICS
   rss: true
   email: "LUHICOSMETICS@gmail.com"
-  facebook: drake.bangnguyen
-  # github: LUHICOSMETICS
-#  twitter: daattali
-#  reddit: yourname
-  # linkedin: bangnguyenduy
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-  instagram: nguyen.duy.bang
-  # youtube: user/chip140494
+  facebook: lakaun.hee
+  instagram: lakaunhee
+  tiktok: chip140494
 #  spotify: yourname
 #  steam: deanat78
 #  twitch: yourname
