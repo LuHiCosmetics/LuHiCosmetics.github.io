@@ -1,15 +1,11 @@
----
-layout: hotdeal
-title: Hot Deal - Siêu khuyến mãi
----
-<head>
+I"z/<head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
 	<link rel="stylesheet" type="text/css" href="css/books_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>💄💋👄HotDeal - Luôn Khuyến Mãi!💋💄🎉🎊 </h1></center><div>
+	<div class="my__suggestion"><center><h1><br />HotDeal - Luôn Khuyến Mãi! </h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
@@ -30,7 +26,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Zero_to_One.png" alt="Zero to One: Notes on Startups, or How to Build the Future" />
-					<h3 class="product__title">Sản phẩm a2</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=zero+to+one+by+peter+thiel+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -38,7 +34,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Subtle_Art_of_Not_Giving_a_Fck.png" alt="The Subtle Art of Not Giving a F*ck" />
-					<h3 class="product__title">Sản phẩm a3</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -46,7 +42,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Harry_Potter_and_the_Cursed_Child.png" alt="Harry Potter and the Cursed Child" />
-					<h3 class="product__title">Sản phẩm a4</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Harry+Potter+and+the+Cursed+Child+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -54,7 +50,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Astrophysics_for_People_in_a_Hurry.png" alt="Astrophysics for People in a Hurry" />
-					<h3 class="product__title">Sản phẩm a5</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=astrophysics+for+people+in+a+hurry+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -62,7 +58,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Who_Moved_My_Cheese.png" alt="Who Moved My Cheese?" />
-					<h3 class="product__title">Sản phẩm a6</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Who+Moved+My+Cheese%3F+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -70,7 +66,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Rich_Dad_Poor_Dad.png" alt="Rich Dad Poor Dad" />
-					<h3 class="product__title">Sản phẩm a7</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=rich+dad+poor+dad+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -78,7 +74,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Power_of_Habit.png" alt="The Power of Habit" />
-					<h3 class="product__title">Sản phẩm a8</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+power+of+habit+by+charles+duhigg+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -86,7 +82,7 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Bounce.png" alt="Bounce" />
-					<h3 class="product__title">Sản phẩm a9</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=bounce+matthew+syed+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -94,10 +90,76 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Shikhandi.png" alt="Shikhandi" />
-					<h3 class="product__title">Sản phẩm a10</h3>
+					<h3 class="product__title">Sản phẩm a1</h3>
 					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Shikhandi+and+Other+Stories+They+Don%27t+Tell+You+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
-			</div>	
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_White_Tiger.png" alt="The White Tiger" />
+					<h3 class="product__title">Sản phẩm a1</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+white+tiger+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_Power_of_Your_Subconscious_Mind.png" alt="The Power of Your Subconscious Mind" />
+					<h3 class="product__title">Sản phẩm a1</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=power+of+subconscious+mind+joseph+murphy+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Hooked.png" alt="Hooked: How to Build Habit-Forming Products" />
+					<h3 class="product__title">Sản phẩm a1</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=hooked+nir+eyal+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_One_Thing.png" alt="The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results" />
+					<h3 class="product__title">Sản phẩm a1</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+One+Thing%3A+The+Surprisingly+Simple+Truth+Behind+Extraordinary+Results&amp;oq=The+one+Thing%3A+The+Surprisingly+Simple+Truth+Behind+Extraordinary+Results')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Quirkology.png" alt="Quirkology: The Curious Science of Everyday Lives" />
+					<h3 class="product__title">Sản phẩm a1</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Quirkology%3A+The+Curious+Science+of+Everyday+Lives+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_Rules_of_Life.png" alt="The Rules of Life: A Personal Code for Living a Better, Happier, More Successful Life" />
+					<h3 class="product__title">Sản phẩm a1</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+rules+of+life+by+richard+templar+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Simp.png" alt="Simplicity" />
+					<h3 class="product__title">Sản phẩm a1</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=simplicity+edward+de+bono+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_Goldilocks_Enigma.png" alt="The Goldilocks Enigma: Why is the Universe Just Right for Life?" />
+					<h3 class="product__title">Sản phẩm a1</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F&amp;oq=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>			
 		</section>
 	</div>
+</div></div>
+:ET
