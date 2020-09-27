@@ -71,7 +71,7 @@
  .product__image {
      display: block;
      margin: 0 auto;
-     max-width: 100%;
+     max-width: 70%;
      -webkit-transform-origin: 50% 100%;
      transform-origin: 50% 100%;
 }

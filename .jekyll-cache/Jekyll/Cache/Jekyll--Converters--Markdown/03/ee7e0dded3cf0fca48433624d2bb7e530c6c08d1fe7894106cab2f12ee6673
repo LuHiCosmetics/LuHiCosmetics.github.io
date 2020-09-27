@@ -1,15 +1,11 @@
----
-layout: hotdeal
-title: Hot Deal - Siêu khuyến mãi
----
-<head>
+I"�<head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
 	<link rel="stylesheet" type="text/css" href="css/books_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1>💄💋👄🎉🎊<br>Hot Deal!<br>Luôn Khuyến Mãi!</h1></center><div>
+	<div class="my__suggestion"><center><h1>💄💋👄🎉🎊<br />Hot Deal!<br />Luôn Khuyến Mãi!</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
@@ -30,16 +26,16 @@ title: Hot Deal - Siêu khuyến mãi
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Zero_to_One.png" alt="Zero to One: Notes on Startups, or How to Build the Future" />
-					<h3 class="product__title">Thuốc bổ gan trắng - Hepalyse Plus</h3>
-					<span class="product__author highlight">Ổn định màng tế bào gan, ngăn cản sự xâm nhập của các chất độc vào gan.</span>
+					<h3 class="product__title">Sản phẩm a2</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=zero+to+one+by+peter+thiel+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Subtle_Art_of_Not_Giving_a_Fck.png" alt="The Subtle Art of Not Giving a F*ck" />
-					<h3 class="product__title">Sữa rửa mặt PERFECT WHIP - SENKA </h3>
-					<span class="product__author highlight"> Có axit m-tranexamic trắng da, ngăn chặn sắc tố melanin gây vết đốm, tàn nhang</span>
+					<h3 class="product__title">Sản phẩm a3</h3>
+					<span class="product__author highlight">GH Creation Ex được biết đến với tác dụng tăng chiều cao hiệu quả</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
@@ -101,3 +97,5 @@ title: Hot Deal - Siêu khuyến mãi
 			</div>	
 		</section>
 	</div>
+</div></div>
+:ET
