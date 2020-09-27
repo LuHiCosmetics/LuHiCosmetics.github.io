@@ -49,7 +49,7 @@
      margin: 0 1em 2.5em;
      padding: 1.5em 1.5em 2em;
      background: #24252A;
-     border-radius: 5px;
+     border-radius: 15px;
 }
  .product--selected {
      box-shadow: 0 0 0 2px #5C5EDC;
@@ -72,6 +72,7 @@
      display: block;
      margin: 0 auto;
      max-width: 70%;
+     border-radius: 10px;
      -webkit-transform-origin: 50% 100%;
      transform-origin: 50% 100%;
 }
