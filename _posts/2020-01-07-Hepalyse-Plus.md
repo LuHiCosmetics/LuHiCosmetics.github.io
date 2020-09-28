@@ -6,7 +6,6 @@ subtitle: Thuốc bổ gan Hepalyse Plus II có đặc điểm gì? <br>Có tố
 use-site-title: true
 bigimg:
   - "/img/San_Pham_Hepalyse_Plus/anh-bia-hepalyseplus.jpg"
-  
 image: /img/San_Pham_Hepalyse_Plus/hepalyseplus.jpg
 tags: [Hepalyse plus, bổ gan, thực phẩm chức năng, JAPAN]
 ---
