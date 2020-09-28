@@ -431,6 +431,11 @@ footer .theme-by {
   padding: 5px;
   width: 80%;
 }
+@media screen and (max-width: 690px) {
+  .post-img-post {
+    width: 40%;
+  }
+}
 .post-img-post:hover {
   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
@@ -507,6 +512,9 @@ footer .theme-by {
 
 .intro-header .page-heading {
   text-align: center;
+}
+.big-img{
+  height: 430px;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
