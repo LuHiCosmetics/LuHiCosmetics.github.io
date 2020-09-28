@@ -48,7 +48,7 @@
      min-width: 16em;
      margin: 0 1em 2.5em;
      padding: 1.5em 1.5em 2em;
-     background: #24252A;
+     background: rgba(46, 49, 58, 0.5);
      background-image: url("/img/My_Picture/hot_deals.gif");
      background-size: 60px;
      background-repeat: no-repeat;

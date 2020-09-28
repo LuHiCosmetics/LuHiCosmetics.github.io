@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Thuốc bổ gan Hepalyse Plus II.
-meta-title: "Thuốc bổ gan Hepalyse Plus II"
-subtitle: Thuốc bổ gan Hepalyse Plus II có đặc điểm gì? <br>Có tốt không ?
+title: Thuốc bổ gan Hepalyse Plus.
+meta-title: "Thuốc bổ gan Hepalyse Plus"
+subtitle: Thuốc bổ gan Hepalyse Plus có đặc điểm gì? <br>Có tốt không ?
 use-site-title: true
 bigimg:
   - "/img/San_Pham_Hepalyse_Plus/anh-bia-hepalyseplus.jpg"
@@ -20,19 +20,17 @@ Gan nóng khiến da bị dị ứng, da mẩn ngứa, nổi mề đay, mụn nh
     <img src="\img\San_Pham_Hepalyse_Plus\hepalyseplus.jpg">
 </div>
 
-HEPALYSEPLUS PLUS II NHẬT BẢN BẢO VỆ GAN, XƠ GAN DO DÙNG NHIỀU BIA RƯỢU
-
 Thành phần chủ yếu của thuốc bổ gan của Nhật Hepalyse plus II chủ yếu chứa gan thủy phân.
 
-Các tính năng
+**Các tính năng**
 
 Gan thủy phân là một dạng axit amin và peptide được thủy phân hiệu quả bằng cách thêm các enzyme tiêu hóa vào gan chất lượng cao tự nhiên và kết hợp các chất dinh dưỡng hiệu quả. Thay vì dạ dày và ruột của con người, nó bị vỡ thành những mảnh nhỏ, giúp dễ tiêu hóa và hấp thu hơn.
 
-Tác dụng
+**Tác dụng**
 
 Bởi vì gan đang làm một công việc khó khăn, nó đang được tái sinh với tốc độ chóng mặt. Những gì cần thiết cho đó là axit amin. Gan thủy phân chứa tổng cộng 18 axit amin, bao gồm các axit amin thiết yếu, cũng như "tiền chất axit nucleic" cần thiết khi các tế bào được tạo ra, do đó nó có thể hỗ trợ tái sinh tế bào một cách hiệu quả.
 
-Về axit amin
+**Về axit amin**
 
 Các hợp chất hữu cơ tạo nên protein, một trong 30 chất dinh dưỡng. Có 20 loại, nhưng nếu bạn mở thậm chí một loại, bạn không thể tổng hợp protein. Nó là thành phần lớn thứ hai của cơ thể, chiếm 60% và chiếm khoảng một nửa trong số 40% còn lại.
 

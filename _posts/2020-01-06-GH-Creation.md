@@ -6,7 +6,6 @@ subtitle: Uống GH Creation Có Hiệu Quả Không? <br>Cách Dùng Hiệu Qu�
 use-site-title: true
 bigimg:
   - "/img/My_Picture/GH_Creation.png"
-  
 image: /img/My_Picture/gh-creation.jpg
 tags: [GH Creation EX, tăng chiều cao, thực phẩm chức năng, JAPAN]
 ---
