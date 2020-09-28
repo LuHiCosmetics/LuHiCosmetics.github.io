@@ -1,15 +1,11 @@
----
-layout: hotdeal
-title: Hot Deals - Siêu khuyến mãi
----
-<head>
+I"�<head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
 	<link rel="stylesheet" type="text/css" href="css/books_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1>🔥Hot Deals!🔥<br>Luôn Khuyến Mãi!</h1></center><div>
+	<div class="my__suggestion"><center><h1>🔥Hot Deals!🔥<br />Luôn Khuyến Mãi!</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
@@ -93,3 +89,5 @@ title: Hot Deals - Siêu khuyến mãi
 			</div>
 		</section>
 	</div>
+</div></div>
+:ET

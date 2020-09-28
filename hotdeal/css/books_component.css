@@ -49,6 +49,9 @@
      margin: 0 1em 2.5em;
      padding: 1.5em 1.5em 2em;
      background: #24252A;
+     background-image: url("/img/My_Picture/hot_deals.gif");
+     background-size: 60px;
+     background-repeat: no-repeat;
      border-radius: 15px;
 }
  .product--selected {

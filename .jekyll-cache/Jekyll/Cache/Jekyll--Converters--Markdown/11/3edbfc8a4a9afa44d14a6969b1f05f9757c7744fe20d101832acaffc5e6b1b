@@ -1,20 +1,21 @@
----
-layout: hotdeal
-title: Hot Deals - Siêu khuyến mãi
----
-<head>
+I":<head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
 	<link rel="stylesheet" type="text/css" href="css/books_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1>🔥Hot Deals!🔥<br>Luôn Khuyến Mãi!</h1></center><div>
+	<div class="my__suggestion"><center><h1>💄💋👄🎉🎊<br />Hot Deals!<br />Luôn Khuyến Mãi!</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
-					<h3 class="product__title">KOSE SOFTYMO CLEANSING OIL</h3>
+					<h3 class="product__title">
+						<div class="animation_hotdeals">
+							<img src="/img/My_Picture/hot_deals.gif" />
+							KOSE SOFTYMO CLEANSING OIL
+						</div>
+					</h3>
 					<span class="product__author highlight">Tẩy trang dạng dầu của thương hiệu mỹ phẩm nội địa Nhật Bản. </span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+paulo+coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -93,3 +94,5 @@ title: Hot Deals - Siêu khuyến mãi
 			</div>
 		</section>
 	</div>
+</div></div>
+:ET
