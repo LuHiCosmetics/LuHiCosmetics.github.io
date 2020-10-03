@@ -16,21 +16,22 @@ navbar-links:
   💊Thực phẩm chức năng:
     - GH Creation: "2020-01-06-GH-Creation"
     - Hepalyse Plus: "2020-01-07-Hepalyse-Plus"
-    - Sản phẩm a3: "https://github.com/bangnguyendev"
-  💃Mỹ phẫm:
+    - Sản phẩm Omega3: "2020-10-03-omega3jp"
+    - Sản phẩm a3: "2020-10-03-omega3jp"
+  💃Mỹ phẩm:
     - Sản phẩm c1: "http://ieeexplore.ieee.org/document/7918794/"
     - Sản phẩm c2: "https://www.linkedin.com/in/bangnguyenduy"
     - Sản phẩm c3: "https://github.com/bangnguyendev"
   🔥Hot Deals: "hotdeal"
   ☎️Liên hệ:
     - LUHI COSMETICS: "aboutme"
-    - Facebook: "https://www.facebook.com/lakaun.hee"
+    - Facebook: "https://www.facebook.com/Luhicosmetic"
     - Instagram: "https://www.instagram.com/lakaunhee/?hl=vi"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "img/My_Picture/avatar_github.jpg"
+avatar: "/img/My_Picture/nameluhi.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter. The logo will have a height of 40px
@@ -58,7 +59,6 @@ author:
   email: "LUHICOSMETICS@gmail.com"
   facebook: lakaun.hee
   instagram: lakaunhee
-  tiktok: chip140494
 #  spotify: yourname
 #  steam: deanat78
 #  twitch: yourname
